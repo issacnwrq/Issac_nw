@@ -55,7 +55,7 @@ p {
   text-decoration: none;
   text-transform: uppercase;
   color: #FFF;
-  border-radius: 5px;
+  border-radius: 20px;
   cursor: pointer; 
   display: inline-block;
   
@@ -65,7 +65,7 @@ p {
 
 /* Keep the hover effect the same, it will scale based on the new smaller size */
 .btn:hover { 
-  box-shadow: 
+  box-shadow:
     0 0 20px rgba(120, 114, 114),
     0 0 40px rgba(120, 114, 114); 
   transform: scale(1.05); 
@@ -87,7 +87,7 @@ p {
   text-decoration: none;
   text-transform: uppercase;
   color: #FFF;
-  border-radius: 5px;
+  border-radius: 20px;
   cursor: pointer; 
   display: inline-block;
   
@@ -97,7 +97,7 @@ p {
 
 /* Keep the hover effect the same, it will scale based on the new smaller size */
 .btn.hover { 
-  box-shadow:
+  box-shadow: 
     0 0 20px rgba(120, 114, 114),
     0 0 40px rgba(120, 114, 114); 
   transform: scale(1.05); 
